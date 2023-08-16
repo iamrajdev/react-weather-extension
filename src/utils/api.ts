@@ -33,6 +33,6 @@ export async function fetchOpenWeatherData(city: string): Promise<OpenWeatherDat
     }
 
     const data: OpenWeatherData = await res.json()
-    
+
     return data
 }

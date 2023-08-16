@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9da61d96-4c31-4dc0-9d28-380a63523939" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/popup/WeatherCard/WeatherCard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/popup/WeatherCard/WeatherCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/popup/WeatherCard/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/popup/WeatherCard/WeatherCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/popup/WeatherCard/WeatherCard.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/popup/popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/popup/popup.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/popup/popup.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/popup/popup.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/api.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +56,14 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;G:\\Raj\\BrowserExtension\\weatherApp\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="ReactBuddySettings">
+    <option name="extensionsIgnore" value="true" />
+  </component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -86,7 +83,10 @@
       <workItem from="1692114325924" duration="1368000" />
       <workItem from="1692115809675" duration="959000" />
       <workItem from="1692116794370" duration="4854000" />
-      <workItem from="1692122845941" duration="1868000" />
+      <workItem from="1692122845941" duration="2242000" />
+      <workItem from="1692205964500" duration="828000" />
+      <workItem from="1692207589401" duration="5294000" />
+      <workItem from="1692214690357" duration="1389000" />
     </task>
     <servers />
   </component>
